@@ -14,6 +14,18 @@ Do not forget extension **.html** when include file :
     <div ng-include="'partials/menu.html'"></div>
     ```
 
+For use with gh-pages, change in index.html the line : 
+
+    ```
+    <base href="/">
+    ```
+    
+par la ligne : 
+    ```
+    <base href="http://username.github.io/project_name/">
+    ```
+    
+
 License
 ---
 The MIT License (MIT)
