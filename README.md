@@ -21,6 +21,7 @@ For use with gh-pages, change in index.html the line :
     ```
     
 par la ligne : 
+
     ```
     <base href="http://username.github.io/project_name/">
     ```
