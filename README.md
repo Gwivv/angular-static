@@ -1,7 +1,7 @@
 Angular JS Static Way Demo
 ===
 
-Activate full bang url :
+Activate full hash bang url :
 
     ```
     $locationProvider.html5Mode(false);
